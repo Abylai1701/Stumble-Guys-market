@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "iconTrash.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
